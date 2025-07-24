@@ -1,0 +1,6 @@
+[submodule "e-commerce"]
+	path = e-commerce
+	url = https://github.com/mdoaa/E-commerce-product-page-front-end-mentor.git
+[submodule "rest-countries"]
+	path = rest-countries
+	url = https://github.com/mdoaa/rest-countries.git
